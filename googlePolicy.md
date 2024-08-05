@@ -5,7 +5,7 @@ Le Wiki261 s'engage à protéger la confidentialité de vos données personnelle
 
 ### Collecte des Données
 * **Données collectées lors de la connexion via Facebook ou Google:** Lorsque vous vous connectez à Le Wiki261 via votre compte Facebook ou Google, nous collectons votre identifiant, votre nom et votre photo de profil. Ces informations sont fournies par la plateforme tierce et sont utilisées pour vous identifier en tant qu'utilisateur sur notre plateforme.
-* **Données générées par l'utilisateur:** Les informations que vous ajoutez sur Le Wiki261, telles que les descriptions de services, les offres d'emploi, etc., sont également collectées.
+* **Données générées par l'utilisateur:** Les informations que vous ajoutez sur Le Wiki261, telles que le numéro de téléphone est également collectées pour pouvoir vous contacter.
 
 ### Utilisation des Données
 Les données que nous collectons sont utilisées pour :

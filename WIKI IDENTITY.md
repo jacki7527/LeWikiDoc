@@ -11,7 +11,7 @@
 7. Annexe
 
 ## I - Introduction
-> Dans notre monde moderne, les smartphones sont devenus bien plus que des outils de communication. Ils sont des portails vers un flux d'informations parfois vitales, influençant notre façon de vivre et d'agir. A madagascar, en **repensant la manière dont nous traitons et exploitons les informations**, nous avons l'ambition de révolutionner de manière éthique le monde de l'information et **d'apporter une nouvelle ère de la Communication**.
+> Dans notre monde moderne, les smartphones sont devenus bien plus que des outils de communication. Ils sont des portails vers un flux d'informations parfois vitales, influençant notre façon de vivre et d'agir. A Madagascar, en **repensant la manière dont nous traitons et exploitons les informations**, nous avons l'ambition de révolutionner de manière éthique le monde de l'information et **d'apporter une nouvelle ère de la Communication Numérique**.
 
 ## II - Le Wiki261
 > La plateforme **Le Wiki261** *(ou simplement Le Wiki)* est un écosystème numérique conçu pour **vous permettre d'accéder facilement à des informations** liées à ce qui existe à Madagascar.

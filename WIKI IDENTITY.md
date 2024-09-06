@@ -21,13 +21,13 @@ A Madagascar, en **repensant la manière dont nous traitons et exploitons les in
 > Version existante : Android (prochainement pour iOS et web)
 
 #### Nos spécificités
-> Pour se démarquer des plateformes existantes, Le Wiki instaure les valeurs suivantes :
+Pour se démarquer des plateformes existantes, Le Wiki instaure les valeurs suivantes :
 - Fournir des renseignements adhérant à des valeurs éthiques telles que **la fiabilité, la crédibilité et la pertinence**.
 - Centraliser les données éparses dans un seul canal et les répartir de manière **structurée** et **facile d'accès**.
 - Offrir aux utilisateurs une expérience **agréable, simple, pratique et unique**.
 
 ## III - Quel type d'information ?
-> Les types d'informations que vous pouvez trouver sur Le Wiki peuvent avoir un impact personnel, culturel, économique et pédagogique. Une section spécifique (**base de données**) est consacrée à *faciliter la vie des utilisateurs* et *améliorer les revenus des contributeurs d'informations*.
+Les types d'informations que vous pouvez trouver sur Le Wiki peuvent avoir un impact personnel, culturel, économique et pédagogique. Une section spécifique (**base de données**) est consacrée à *faciliter la vie des utilisateurs* et *améliorer les revenus des contributeurs d'informations*.
 
 1. **Services pratiques**  
    > Accès hors ligne et en seulement deux clics aux contacts d'urgence, tels que les pharmacies de garde et les services d'intervention (forces de l'ordre et hôpitaux).  
@@ -47,20 +47,20 @@ A Madagascar, en **repensant la manière dont nous traitons et exploitons les in
    > Les sections suivantes seront activées dans les prochaines fonctionnalités : emplois, immobilier, agrobusiness, vente de véhicules, etc.
 
 ## IV - Soumettre votre information dans la base
-> En tant que plateforme multi-supports, la richesse de sa base de données (informations) dépend largement des contributions du grand public.
+En tant que plateforme multi-supports, la richesse de sa base de données (informations) dépend largement des contributions du grand public.
 
-> Bien que l'utilisation de l'application soit totalement gratuite, hormis pour ce qui est ajouté par l'administrateur du réseau, **l'alimentation requiert une contribution symbolique**.
+Bien que l'utilisation de l'application soit totalement gratuite, hormis pour ce qui est ajouté par l'administrateur du réseau, **l'alimentation requiert une contribution symbolique**.
 
-> Pour garantir un contenu de qualité respectant **nos valeurs**, les renseignements introduits par les contributeurs doivent respecter les points suivants :
+Pour garantir un contenu de qualité respectant **nos valeurs**, les renseignements introduits par les contributeurs doivent respecter les points suivants :
 - Contenu éligible
 - Acceptation des modalités de paiement
 
 ## V - Vos données
-> Vous êtes le seul à pouvoir modifier ou supprimer les contenus que vous avez ajoutés.
+Vous êtes le seul à pouvoir modifier ou supprimer les contenus que vous avez ajoutés.
 
-> Après chaque modification, votre contenu ne sera visible publiquement qu'après validation par l'administrateur du réseau.
+Après chaque modification, votre contenu ne sera visible publiquement qu'après validation par l'administrateur du réseau.
 
-> Si vous apparaissez dans la base de données des services, vous devez mettre à jour votre service tous les trois mois. Un service obsolète ne sera pas visible publiquement.
+Si vous apparaissez dans la base de données des services, vous devez mettre à jour votre service tous les trois mois. Un service obsolète ne sera pas visible publiquement.
 
 ## VI - Amélioration continue
 Voici la liste des prochaines améliorations ou fonctionnalités à implémenter :

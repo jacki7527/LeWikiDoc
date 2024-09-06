@@ -16,7 +16,9 @@
 > À noter : notre philosophie ne consiste surtout pas à reproduire les outils existants, mais plutôt à créer ce qui n'existe pas encore. En **repensant la manière dont nous traitons et exploitons les informations**, nous avons l'ambition de révolutionner de manière éthique le monde de la communication digitale et **d'apporter une nouvelle ère de la Technologie de l'Information et de la Communication** à Madagascar.
 
 ## II - Le Wiki261
-> Le Wiki261 *(ou simplement Le Wiki)* est une plateforme numérique multi-supports (application Android, iOS et web) conçue pour **vous permettre d'accéder facilement à des informations** utiles au quotidien.
+> La plateforme **Le Wiki261** *(ou simplement Le Wiki)* est un écosystème numérique conçue pour **vous permettre d'accéder facilement à des informations** à Madagascar.
+
+> Version existante : Android (prochainement pour iOS et web)
 
 #### Nos spécificités
 > Pour se démarquer des plateformes existantes, Le Wiki instaure les valeurs suivantes :

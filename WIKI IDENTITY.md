@@ -27,7 +27,7 @@ Pour se démarquer des plateformes existantes, Le Wiki instaure les valeurs suiv
 - Offrir aux utilisateurs une expérience **agréable, simple, pratique et unique**.
 
 ## III - Quel type d'information ?
-Les types d'informations que vous pouvez trouver sur Le Wiki peuvent avoir un impact personnel, culturel, économique et pédagogique. Une section spécifique (**base de données**) est consacrée à *faciliter la vie des utilisateurs* et *améliorer les revenus des contributeurs d'informations*.
+Les types d'informations que vous pouvez trouver sur Le Wiki sont ce qui peuvent avoir un impact positif personnel, culturel, économique et pédagogique. Une section spécifique (**base de données**) est consacrée à *faciliter la vie des utilisateurs* et *améliorer les revenus des contributeurs d'informations*.
 
 1. **Services pratiques**  
    > Accès hors ligne et en seulement deux clics aux contacts d'urgence, tels que les pharmacies de garde et les services d'intervention (forces de l'ordre et hôpitaux).  

@@ -42,7 +42,7 @@ Une section spécifique (**base de données**) est consacrée à *faciliter la v
 3. **Calendrier**  
    > Ce canal regroupe tous les événements en cours d'organisation dans une zone géographique étendue. Pour chaque événement, vous pouvez accéder à diverses informations telles que la description, un aperçu de l'événement, la date, le lieu, et l'organisateur. Vous pouvez également passer un appel direct vers l'organisateur à partir de votre téléphone.  
 
-   > Le lieu et l'organisateur de l'événement sont consultables s'ils sont reconnus par la base de données des services.
+   > Les détails du lieu et de l'organisateur peuvent être consultés dans la base de données des services s'ils sont reconnus.
    - demo (lien)
 
 4. **À venir**  

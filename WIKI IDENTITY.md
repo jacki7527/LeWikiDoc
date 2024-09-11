@@ -47,6 +47,7 @@ Une section spécifique (**base de données**) est consacrée à *faciliter la v
 
 4. **À venir**  
    > Les sections suivantes seront activées dans les prochaines fonctionnalités : emplois, immobilier, agrobusiness, vente de véhicules, etc.
+   > Forum de discussion des renseignements et leurs fiabilités.
 
 ## IV - Soumettre votre information dans la base
 En tant que plateforme multi-supports, la richesse de sa base de données (informations) dépend largement des contributions du grand public.

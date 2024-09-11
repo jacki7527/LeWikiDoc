@@ -23,7 +23,7 @@ La plateforme **Le Wiki261** *(ou simplement Le Wiki)* est un outil numérique c
 #### Nos spécificités
 Pour se démarquer des plateformes existantes, Le Wiki instaure les valeurs suivantes :
 - Fournir des renseignements adhérant à des valeurs éthiques telles que **la fiabilité, la crédibilité et la pertinence**.
-- Centraliser les données éparses dans un seul canal et les répartir de manière **structurée** et **facile d'accès**.
+- Centraliser les données éparses dans un seul canal et les regrouper de manière **structurée** et **facile d'accès**.
 - Offrir aux utilisateurs une expérience **agréable, simple, pratique et unique**.
 
 ## III - Quel type d'information ?

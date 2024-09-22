@@ -29,26 +29,27 @@ Pour se démarquer des plateformes existantes, Le Wiki instaure les valeurs suiv
 ## III - Quel type d'information ?
 Les types d'informations que vous pouvez trouver sur Le Wiki sont ce qui peuvent avoir un impact positif personnel, culturel, économique et pédagogique. 
 
-Une section spécifique (**base de données**) est consacrée à *faciliter la vie des utilisateurs* et *améliorer les revenus des contributeurs d'informations*.
-
-1. **Services pratiques**  
-   > Accès hors ligne et en seulement deux clics aux contacts d'urgence, tels que les pharmacies de garde et les services d'intervention (forces de l'ordre et hôpitaux).  
+### Services pratiques  
+Accès hors ligne et en seulement deux clics aux contacts d'urgence, tels que les pharmacies de garde et les services d'intervention (forces de l'ordre et hôpitaux).  
    - demo (lien)
 
-2. **Services privés**  
-   > Ce canal regroupe toutes les entités (entreprises, professions libérales, institutions, ONG, associations, et lieux) qui peuvent vous proposer des services dans une zone géographique étendue. En consultant un service, vous pouvez accéder à diverses informations comme sa description, son catalogue de produits ou de services, son adresse avec carte, des redirections vers d'autres services tiers (WhatsApp, Facebook, YouTube, site web), et passer un appel direct vers le service à partir de votre téléphone.  
+### Base de données
+Une section spécifique consacrée à *faciliter la vie des utilisateurs* et *améliorer les revenus des contributeurs d'informations*.
+
+1. **Services privés**  
+Ce canal regroupe toutes les entités (entreprises, professions libérales, institutions, ONG, associations, et lieux) qui peuvent vous proposer des services dans une zone géographique étendue. En consultant un service, vous pouvez accéder à diverses informations comme sa description, son catalogue de produits ou de services, son adresse avec carte, des redirections vers d'autres services tiers (WhatsApp, Facebook, YouTube, site web), et passer un appel direct vers le service à partir de votre téléphone.  
    - demo (lien)
 
-3. **Calendrier**  
-   > Ce canal regroupe tous les événements en cours d'organisation dans une zone géographique étendue. Pour chaque événement, vous pouvez accéder à diverses informations telles que la description, un aperçu de l'événement, la date, le lieu, et l'organisateur. Vous pouvez également passer un appel direct vers l'organisateur à partir de votre téléphone.  
+2. **Calendrier**  
+Ce canal regroupe tous les événements en cours d'organisation dans une zone géographique étendue. Pour chaque événement, vous pouvez accéder à diverses informations telles que la description, un aperçu de l'événement, la date, le lieu, et l'organisateur. Vous pouvez également passer un appel direct vers l'organisateur à partir de votre téléphone.  
 
    > Les détails du lieu et de l'organisateur peuvent être consultés dans la base de données des services s'ils sont reconnus.
    - demo (lien)
 
-4. **À venir**  
-   > Les sections suivantes seront activées dans les prochaines fonctionnalités : emplois, immobilier, agrobusiness, vente de véhicules, etc.
+### À venir 
+Les sections suivantes seront activées dans les prochaines fonctionnalités : emplois, immobilier, agrobusiness, vente de véhicules, etc.
    
-   > Forum de discussion des renseignements et leurs fiabilités.
+Forum de discussion des renseignements et leurs fiabilités.
 
 ## IV - Soumettre votre information dans la base
 En tant que plateforme multi-supports, la richesse de sa base de données (informations) dépend largement des contributions du grand public.
@@ -72,10 +73,10 @@ Voici la liste des prochaines améliorations ou fonctionnalités à implémenter
 
 ## VII - Annexe
 ### Projet pilote
-> Pour mieux lancer ce projet, l'entreprise Lance Media a choisi la Province de Toamasina comme projet pilote. Une fois que le système de fonctionnement et les fonctionnalités seront opérationnels, l'extension de la politique d'alimentation de la base de données sera étendue à d'autres provinces.
+Pour mieux lancer ce projet, l'entreprise Lance Media a choisi la Province de Toamasina comme projet pilote. Une fois que le système de fonctionnement et les fonctionnalités seront opérationnels, l'extension de la politique d'alimentation de la base de données sera étendue à d'autres provinces.
 
 ### Nos collaborateurs
-> Liste des potentiels collaborateurs :
+Liste des potentiels collaborateurs :
 - Région Atsinanana et ses directions régionales
 - Commune Urbaine de Toamasina
 - Chambre de Commerce et d'Industrie de Toamasina

@@ -84,7 +84,7 @@ Liste des potentiels collaborateurs :
 - Office du Tourisme de Toamasina
 - La Fabrique Pépinière d'entreprises de Toamasina
 
-## VII - Installation
+## VIII - Installation
 - Play store : https://play.google.com/store/apps/details?id=www.lance.wiki261
 
 ## IX - Contacts

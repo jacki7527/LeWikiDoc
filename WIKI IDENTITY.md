@@ -9,7 +9,8 @@
 5. Gestion de vos données
 6. Prochaines améliorations
 7. Annexe
-8. Installation 
+8. Installation
+9. contact
 
 ## I - Introduction
 Dans notre monde moderne, les smartphones sont devenus bien plus que des outils de communication. Ils sont des portails vers un flux d'informations parfois vitales, influençant notre façon de vivre et d'agir.

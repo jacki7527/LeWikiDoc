@@ -9,6 +9,7 @@
 5. Gestion de vos données
 6. Prochaines améliorations
 7. Annexe
+8. Installation 
 
 ## I - Introduction
 Dans notre monde moderne, les smartphones sont devenus bien plus que des outils de communication. Ils sont des portails vers un flux d'informations parfois vitales, influençant notre façon de vivre et d'agir.
@@ -82,6 +83,9 @@ Liste des potentiels collaborateurs :
 - Chambre de Commerce et d'Industrie de Toamasina
 - Office du Tourisme de Toamasina
 - La Fabrique Pépinière d'entreprises de Toamasina
+
+## VII - Installation
+- Play store : https://play.google.com/store/apps/details?id=www.lance.wiki261
 
 ## IX - Contacts
 > lance.media261@gmail.com

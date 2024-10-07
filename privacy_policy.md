@@ -1,4 +1,6 @@
 # I - Le Wiki261 Politique de confidentialité 
+*Dernière mise à jour : 7 Octobre 2024*
+
 La présente Politique de confidentialité s’applique sur l'application **Le Wiki261**, nous nous engageons à protéger et à respecter votre vie privée en vous expliquant comment nous recueillons, utilisons, partageons et traitons vos renseignements personnels et d’autres personnes en lien avec notre Plateforme.
 
 # II - Quels sont les renseignements que nous recueillons?

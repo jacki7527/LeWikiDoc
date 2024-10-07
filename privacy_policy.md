@@ -14,7 +14,12 @@ La présente Politique de confidentialité s’applique sur l'application **Le W
 Comme il n'est pas possible de créer un compte sur la plateforme alors nous utilisons les renseignements provenant d'autres sources. Lorsque vous vous inscrivez en utilisant les informations d'un compte d'un service tiers (par exemple, Google) ou via un service de connexion, vous nous fournissez, et nous autorisez à accéder, à votre nom d'utilisateur ainsi qu'aux informations disponibles sur votre profil public.
 
 ## II - C : Les permissions
+
+### Appel
 Nous demandons l'autorisation d'accéder aux fonctions de téléphonie de votre appareil. Cette autorisation est strictement nécessaire pour permettre l'initiation des appels depuis l'application et est utilisée uniquement dans ce cadre. Nous ne collectons, ne stockons ni ne partageons aucune information liée aux appels avec des tiers.
+
+### Camera
+En autorisant l'application à accéder à la caméra de votre appareil, vous pourrez scanner des QR codes afin de simplifier l'accès à des informations spécifiques au sein de l'application. L'utilisation de la caméra est strictement limitée à cette fonctionnalité, et aucune image ou vidéo capturée ne sera collectée ni stockée.
 
 # III - Comment nous utilisons vos renseignements
 Nous utilisons les renseignements que nous recueillons de la manière suivante :

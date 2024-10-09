@@ -86,7 +86,7 @@ Liste des potentiels collaborateurs :
 - La Fabrique Pépinière d'entreprises de Toamasina
 
 ## VIII - Installation
-- Play store : https://play.google.com/store/apps/details?id=www.lance.wiki261
+Play store : https://play.google.com/store/apps/details?id=www.lance.wiki261
 
 ## IX - Contacts
 > lance.media261@gmail.com

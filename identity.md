@@ -1,5 +1,5 @@
 # LE WIKI261
-*"Madagascar Information Bank"*
+*"Un moteur de recherche Malagasy"*
 
 ## I - Sommaire
 1. Introduction

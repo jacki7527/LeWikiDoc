@@ -1,4 +1,3 @@
-
 # PLAN TARIFAIRE LE WIKI261
 
 **Plan du document**
@@ -15,9 +14,15 @@
 
 ### Entreprise
 
+#### 0 Ar/an **FREEMIUM**
+1. Description jusqu'à 125 caractères.
+2. 1 domaine d'activités.
+3. Aucun album photo.
+4. Redirection vers Facebook.
+
 #### 120.000 Ar/an **STANDARD**
 1. Description jusqu'à 250 caractères.
-2. 2 domaine d'activités.
+2. 2 domaines d'activités.
 3. 1 album de 5 photos.
 4. Redirection vers Facebook.
 

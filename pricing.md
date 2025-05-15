@@ -56,7 +56,7 @@
 4. 10 albums de 20 photos.
 5. Redirection vers WhatsApp, Facebook, site web, YouTube.
 
-#### 620.000 Ar/an **FULL**
+#### 620.000 Ar/an **PRO**
 1. Slide de 4 images sur la couverture.
 2. Description jusqu'à 600 caractères.
 3. 6 domaines d'activités.
@@ -72,7 +72,7 @@
 4. 10 albums de 20 photos.
 5. Redirection vers WhatsApp, Facebook, site web, YouTube.
 
-#### 620.000 Ar/an **FULL**
+#### 620.000 Ar/an **PRO**
 1. Slide de 4 images sur la couverture.
 2. Description jusqu'à 600 caractères.
 3. 6 domaines d'activités.
@@ -91,7 +91,7 @@
 4. 10 albums de 20 photos.
 5. Redirection vers WhatsApp, Facebook, site web, YouTube.
 
-#### 620.000 Ar/an **FULL**
+#### 620.000 Ar/an **PRO**
 1. Slide de 4 images sur la couverture.
 2. Description jusqu'à 600 caractères.
 3. 6 domaines d'activités.
@@ -101,9 +101,17 @@
 
 ## II - Ajout d'un évènement
 
-### 15.000 Ar/mois 
+### 25.000 Ar/mois **STANDARD**
 1. Description jusqu'à X caractères.
 2. Photos d'aperçues et supports à 20 images.
 3. Affichage de la date et de la ville.
 4. Consultation du lieu et de l'organisateur de l'évènement.
 5. Redirection vers WhatsApp, Facebook, YouTube.
+
+### 15.000 Ar/mois **PRO**
+1. Description jusqu'à X caractères.
+2. Photos d'aperçues et supports à 20 images.
+3. Affichage de la date et de la ville.
+4. Consultation du lieu et de l'organisateur de l'évènement.
+5. Redirection vers WhatsApp, Facebook, YouTube.
+6. Résèrvation place en ligne

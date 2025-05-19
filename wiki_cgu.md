@@ -1,7 +1,5 @@
 # Conditions Générales d’Utilisation (CGU)
 
-**Dernière mise à jour : [DATE]**
-
 Bienvenue sur **Le Wiki261**. En utilisant cette application mobile, vous acceptez pleinement et entièrement les présentes Conditions Générales d’Utilisation (CGU). Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser l'application.
 
 ## 1. Présentation de l’application

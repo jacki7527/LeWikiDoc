@@ -1,4 +1,4 @@
-# Script vidéo — Le Wiki261
+# Structure du script vidéo — Le Wiki261
 
 **Durée estimée :** 5 à 6 minutes  
 **Format :** présentation face caméra, accompagnée d'une démonstration de l'application et de captures d'écran  
@@ -68,7 +68,7 @@ Nous invitons les opérateurs économiques et les organisations qui proposent de
 
 Elles montrent concrètement comment un restaurant, un hôtel, un bungalow, un professionnel ou tout autre service peut rendre ses informations plus faciles à trouver pour les personnes qui les recherchent.
 
-Ces vidéos peuvent également vous aider à décider d'être présent sur la plateforme et à rendre vos informations plus accessibles aux personnes qui les recherchent.
+Ces vidéos vous montrent concrètement pourquoi votre présence sur la plateforme est importante. Elles illustrent comment vos informations peuvent être présentées de manière structurée et plus facilement trouvées par les personnes qui recherchent vos services, afin de vous aider à décider de rejoindre Le Wiki261.
 
 C'est pourquoi votre contribution est essentielle : partagez, complétez et actualisez les informations qui permettront à chacun de trouver plus facilement ce dont il a besoin au quotidien.
 
@@ -76,6 +76,4 @@ C'est pourquoi votre contribution est essentielle : partagez, complétez et actu
 
 Un accès aux informations pratiques plus simple, plus rapide et plus fiable à Madagascar.
 
-Le Wiki261.
-
-Porte d'entrée vers l'information pratique à Madagascar.
+Le Wiki261, votre porte d'entrée vers l'information pratique à Madagascar.

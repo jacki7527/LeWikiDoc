@@ -46,7 +46,7 @@ Aujourd'hui, ces informations circulent séparément, portées par les entrepris
 
 En conséquence, cette situation rend la recherche plus compliquée pour les citoyens, les voyageurs, les professionnels et tous ceux qui souhaitent découvrir les services et les opportunités disponibles autour d'eux.
 
-Le plus préoccupant, c'est que nous avons fini par considérer cette situation comme normale, en nous habituant à chercher longtemps ou à dépendre du bouche-à-oreille.
+Le plus préoccupant, c'est que nous avons fini par considérer cette situation comme normale.
 
 Puisqu'aucune solution locale de ce type n'existe encore, nous nous contentons souvent de plateformes internationales qui ne répondent pas toujours exactement aux réalités et aux besoins de nos territoires.
 

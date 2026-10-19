@@ -44,7 +44,7 @@ Ce qui pose problème, ce n'est pas l'absence d'informations, mais leur dispersi
 
 Aujourd'hui, ces informations circulent séparément, portées par les entreprises, les établissements, les communautés et les territoires. Sans un espace commun pour les rassembler, elles deviennent difficiles à identifier et à retrouver.
 
-Cette situation rend la recherche plus compliquée pour les citoyens, les voyageurs, les professionnels et tous ceux qui souhaitent découvrir les services et les opportunités disponibles autour d'eux.
+En conséquence, cette situation rend la recherche plus compliquée pour les citoyens, les voyageurs, les professionnels et tous ceux qui souhaitent découvrir les services et les opportunités disponibles autour d'eux.
 
 Le plus préoccupant, c'est que nous avons fini par considérer cette situation comme normale, en nous habituant à chercher longtemps ou à dépendre du bouche-à-oreille.
 

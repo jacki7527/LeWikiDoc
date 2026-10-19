@@ -1,4 +1,4 @@
-# Structure du script vidéo — Le Wiki261
+# Script vidéo — Le Wiki261
 
 **Durée estimée :** 5 à 6 minutes  
 **Format :** présentation face caméra, accompagnée d'une démonstration de l'application et de captures d'écran  

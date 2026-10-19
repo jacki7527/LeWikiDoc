@@ -11,7 +11,7 @@ Bonjour, je suis [Nom de la présentatrice].
 
 Je suis ici pour vous partager une vision très ambitieuse, qui pourrait transformer votre manière d'accéder aux informations pratiques locales.
 
-Un projet qui vise à faciliter votre quotidien en vous donnant un accès plus simple aux informations pratiques locales.
+Un projet digital qui vise à faciliter votre quotidien en vous donnant un accès plus simple et plus fiable aux informations pratiques locales.
 
 Ce n'est pas une simple manière de parler, mais une réalité que nous voulons construire : celle d'un Madagascar où trouver une information pratique au quotidien ne dépend plus du bouche-à-oreille ou de longues recherches sur Internet.
 

@@ -23,6 +23,7 @@ Vous recherchez par exemple :
 
 - Un hôtel ou un bungalow adapté à votre budget ;
 - Un restaurant pour découvrir les spécialités locales ;
+- Un endroit où sortir et vous divertir ;
 - Un véhicule pour vous déplacer librement ;
 - Les événements prévus pendant votre séjour.
 
@@ -46,9 +47,7 @@ Aujourd'hui, ces informations circulent séparément, portées par les entrepris
 
 En conséquence, cette situation rend la recherche plus compliquée pour les citoyens, les voyageurs, les professionnels et tous ceux qui souhaitent découvrir les services et les opportunités disponibles autour d'eux.
 
-Le plus préoccupant, c'est que nous avons fini par considérer cette situation comme normale.
-
-Puisqu'aucune solution locale de ce type n'existe encore, nous nous contentons souvent de plateformes internationales qui ne répondent pas toujours exactement aux réalités et aux besoins de nos territoires.
+Le plus préoccupant, c'est que nous avons fini par considérer cette situation comme normale puisqu'aucune solution locale de ce type n'existe encore. Nous nous contentons souvent de plateformes internationales qui ne répondent pas toujours exactement aux réalités et aux besoins de nos territoires.
 
 C'est une situation grave, car elle prive les citoyens, les visiteurs et les professionnels d'un accès adapté aux informations pratiques locales.
 
@@ -83,7 +82,7 @@ Notre premier pas est de tendre la main aux entreprises, aux professionnels, aux
 
 Les institutions sont à nos côtés, les personnes qui recherchent ces informations sont déjà là. Il ne manque plus que vous pour rejoindre cette initiative et donner à vos informations la place qu'elles méritent.
 
-Nous lançons une invitation particulière aux opérateurs économiques et aux organisations qui proposent des services à la communauté, afin qu'ils découvrent nos vidéos de cas d'utilisation. Elles montrent concrètement pourquoi votre présence sur la plateforme est importante, en illustrant comment vos informations peuvent être présentées de manière structurée et plus facilement trouvées par les personnes qui recherchent vos services, afin de vous aider à décider de rejoindre Le Wiki261.
+Nous lançons une invitation particulière aux opérateurs économiques et aux organisations qui proposent des services à la communauté, afin que vous découvriez nos vidéos de cas d'utilisation. Elles montrent concrètement pourquoi votre présence sur la plateforme est importante, en illustrant comment vos informations peuvent être présentées de manière structurée et plus facilement trouvées par les personnes qui recherchent vos services, afin de vous aider à décider de rejoindre Le Wiki261.
 
 ## Message final — Vision à rappeler après toutes les parties
 

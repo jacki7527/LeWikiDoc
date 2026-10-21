@@ -1,4 +1,4 @@
-# Structure du script vidéo — Le Wiki261
+# Script vidéo — Le Wiki261
 
 **Durée estimée :** 6 à 7 minutes  
 **Format :** présentation face caméra, accompagnée d'une démonstration de l'application et de captures d'écran  
@@ -9,47 +9,35 @@
 
 Bonjour, je suis [Nom de la présentatrice].
 
-Je suis ici pour vous partager une vision très ambitieuse, qui pourrait transformer votre manière d'accéder aux informations pratiques locales.
+Je suis ici pour vous partager une vision très ambitieuse dans le domaine de la technologie et de l'accès aux informations pratiques à Madagascar.
 
-C'est un projet digital accessible sur le web et via une application mobile, qui vise à faciliter votre quotidien en vous donnant un accès plus simple et plus fiable aux informations pratiques locales.
-
-Restez avec nous jusqu'au bout : ce que nous allons vous présenter pourrait transformer votre quotidien, aussi bien dans votre vie personnelle que dans votre activité professionnelle.
+J'attire votre attention, car ce que vous allez découvrir dans cette vidéo pourrait changer votre quotidien, tant dans votre vie personnelle que dans votre activité professionnelle. Alors, restez avec nous jusqu'au bout.
 
 ## 2. Accroche
 
-Imaginez que vous préparez un voyage à Madagascar : à Nosy Be, à Sainte-Marie, à Tuléar ou dans toute autre destination du pays.
+Nous allons imaginer ensemble un scénario. Imaginez que vous préparez un voyage à Madagascar : à Nosy Be, à Sainte-Marie, à Tuléar ou dans toute autre destination du pays.
 
 Vous recherchez par exemple :
 
 - Un hôtel ou un bungalow adapté à votre budget ;
-- Un restaurant pour découvrir les spécialités locales ;
+- Pas forcément un restaurant, mais peut-être une petite gargote pour découvrir les spécialités locales ;
 - Un endroit où sortir et vous divertir ;
-- Un véhicule pour vous déplacer librement ;
-- Les événements prévus pendant votre séjour.
+- Un véhicule de location pour vous déplacer librement ;
+- Les événements prévus pendant votre séjour, et pourquoi pas y réserver votre place en ligne.
 
-Et la liste est longue.
+Bref, la liste est longue.
 
-La question que nous vous posons est donc la suivante : mais où pouvez-vous trouver ces informations pratiques locales, facilement et en toute confiance ?
+La question que nous vous posons maintenant est donc la suivante : mais où pouvez-vous trouver ces informations pratiques locales, facilement et en toute confiance ?
 
-Aujourd'hui, la réponse est claire : nulle part. Ni sur les réseaux sociaux, ni sur les moteurs de recherche, ni même à travers les intelligences artificielles, vous ne trouverez dans un seul espace des informations pratiques locales fiables.
-
-Face à tous ces besoins, une évidence s'impose : Madagascar mérite son propre outil de recherche.
-
-Un outil simple, pensé pour ses réalités, fiable et accessible, qui permet à chacun de trouver plus facilement les informations pratiques dont il a besoin au quotidien.
-
-Car le plus grand paradoxe de notre pays est là : de nombreuses personnes recherchent déjà ces informations, et ces informations existent déjà. Elles ne sont simplement pas encore rassemblées au même endroit.
+Aujourd'hui, la réponse est claire : nulle part. Ni sur les réseaux sociaux, ni sur les moteurs de recherche, ni même à travers les intelligences artificielles.
 
 ## 3. Évocation du problème
 
-Ce qui pose problème, ce n'est pas l'absence d'informations, mais leur dispersion.
+À l'ère d'une technologie aussi avancée, Madagascar vit encore dans un paradoxe total : les personnes qui recherchent ces informations sont déjà là, et les informations qu'elles recherchent sont déjà là elles aussi, elles circulent séparément, portées par les entreprises, les établissements, les communautés et les territoires. Sans un espace commun pour les rassembler, elles deviennent difficiles à identifier et à retrouver.
 
-Aujourd'hui, ces informations circulent séparément, portées par les entreprises, les établissements, les communautés et les territoires. Sans un espace commun pour les rassembler, elles deviennent difficiles à identifier et à retrouver.
+Le plus préoccupant, c'est que nous avons fini par utiliser les réseaux sociaux comme un outil de recherche, alors qu'ils ne répondent pas exactement aux besoins que nous avons cités. C'est une situation très grave que nous avons fini par considérer comme normale.
 
-En conséquence, cette situation rend la recherche plus compliquée pour les citoyens, les voyageurs, les professionnels et tous ceux qui souhaitent découvrir les services et les opportunités disponibles autour d'eux.
-
-Le plus préoccupant, c'est que nous avons fini par considérer cette situation comme normale puisqu'aucune solution locale de ce type n'existe encore. Nous nous contentons souvent de plateformes internationales qui ne répondent pas toujours exactement aux réalités et aux besoins de nos territoires.
-
-C'est une situation grave, car elle prive les citoyens, les visiteurs et les professionnels d'un accès adapté aux informations pratiques locales.
+Face à tous ces besoins, une réalité devient palpable : Madagascar mérite un outil de recherche centralisé, tout-en-un et adapté à ses réalités, pour accéder facilement et en toute confiance aux informations pratiques du quotidien.
 
 ## 4. Annonce de la solution : Le Wiki261
 
@@ -57,9 +45,13 @@ De tout cela naît le projet « Le Wiki261 ».
 
 La vocation première de la plateforme est de filtrer les informations pratiques locales afin de ne retenir que celles qui sont fiables, puis de les centraliser et de les structurer pour les rendre accessibles à tous, tout en devenant progressivement une encyclopédie locale vivante et le reflet numérique de chaque commune.
 
-En matière de publicité et de visibilité, nous sommes conscients que de nombreuses alternatives sont déjà performantes. Mais nous avons fait le choix d'une approche différente : Le Wiki261 répond à un besoin complémentaire, celui d'organiser l'accès aux informations pratiques locales pour tous.
+Nous ne cherchons pas à réinventer la roue ni à recréer ce que d'autres plateformes font déjà très bien.
 
-Ainsi, Le Wiki261 ne cherche pas simplement à promouvoir des entreprises, des services, des établissements, des professions et bien d'autres activités. Il vise à organiser l'accès aux informations pratiques locales pour tous.
+Ces solutions se concentrent souvent sur la publicité et une visibilité parfois éphémère : vous publiez une information, puis, avec le temps, elle devient difficile à retrouver.
+
+Le Wiki261 répond à un besoin complémentaire : faciliter l'accès, à tout moment, aux informations pratiques locales.
+
+Ainsi, Le Wiki261 ne cherche pas simplement à promouvoir des entreprises, des services, des établissements, des professions et bien d'autres activités. Il vise à organiser l'accès aux informations pratiques locales secteur par secteur.
 
 ## 5. Démonstration réelle de l'application
 
@@ -72,17 +64,17 @@ Ainsi, Le Wiki261 ne cherche pas simplement à promouvoir des entreprises, des s
 
 ## 6. Invitation à collaborer et à alimenter les informations
 
-Nous commençons aujourd'hui le déploiement du projet dans la Région Atsinanana, première étape d'une extension progressive vers les autres régions de Madagascar.
+Ce projet est maintenant en phase de déploiement dans la Région Atsinanana, première étape d'une extension progressive vers les autres régions de Madagascar.
 
-Nous ne portons pas cette initiative seuls. Le Gouvernement malgache, l'Office Régional du Tourisme de Toamasina (ORTT) et d'autres institutions accompagnent cette démarche.
+La force de cette plateforme réside dans le fait que nous ne portons pas cette initiative seuls : le Gouvernement malgache et plusieurs institutions accompagnent cette démarche, notamment l'Office Régional du Tourisme de Toamasina (ORTT), la Chambre de commerce et d'autres encore.
 
-Le projet est également partiellement financé par la Banque mondiale à travers le programme Miary Digital.
+Les institutions sont à nos côtés, et les personnes qui recherchent des informations sont déjà là. Il ne manque plus que vous pour rejoindre cette initiative et donner à vos informations la place qu'elles méritent.
 
-Notre premier pas est de tendre la main aux entreprises, aux professionnels, aux établissements et aux associations de la région.
+De ce fait, nous faisons appel à vous, opérateurs économiques et organisations qui proposent des services à la communauté, afin que vous découvriez nos vidéos de cas d'utilisation.
 
-Les institutions sont à nos côtés, les personnes qui recherchent ces informations sont déjà là. Il ne manque plus que vous pour rejoindre cette initiative et donner à vos informations la place qu'elles méritent.
+Elles montrent concrètement pourquoi votre présence sur la plateforme est importante : vos informations peuvent être présentées de manière structurée et plus facilement trouvées par les personnes qui recherchent vos services.
 
-Nous lançons une invitation particulière aux opérateurs économiques et aux organisations qui proposent des services à la communauté, afin que vous découvriez nos vidéos de cas d'utilisation. Elles montrent concrètement pourquoi votre présence sur la plateforme est importante, en illustrant comment vos informations peuvent être présentées de manière structurée et plus facilement trouvées par les personnes qui recherchent vos services, afin de vous aider à décider de rejoindre Le Wiki261.
+Pour vous qui cherchez des informations pratiques fiables et sécurisées, téléchargez et utilisez notre application sur l'App Store ou Google Play.
 
 ## Message final — Vision à rappeler après toutes les parties
 
